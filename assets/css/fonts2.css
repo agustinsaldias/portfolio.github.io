@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Pico';
+    font-weight: normal;
+    src: url('../fonts/pico.ttf');
+}
+@font-face {
+    font-family: 'PFRondaSeven';
+    font-weight: normal;
+    src: url('../fonts/pf_ronda_seven.ttf');
+}
+@font-face {
+    font-family: 'PFRondaSeven';
+    font-weight: bold;
+    src: url('../fonts/pf_ronda_seven_bold.ttf');
+}

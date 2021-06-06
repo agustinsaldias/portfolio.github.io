@@ -1,0 +1,52 @@
+@import 'fonts.css';
+@import 'fonts2.css';
+
+/********************/
+
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+html {
+	/* fallback */
+  background-color: #211813;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background: -webkit-gradient(radial, center center, 0, center center, 10, from(#48301E), to(#211813));
+  background: -webkit-radial-gradient(circle, #48301E, #211813);
+  background: -moz-radial-gradient(circle, #48301E, #211813);
+  background: -ms-radial-gradient(circle, #48301E, #211813);
+}
+
+body {
+	font-size: 16px;
+	font-family: 'PFRondaSeven';
+	line-height: 100%;
+	color: #a1a1a1;
+	background: transparent url('../images/tin256.png') no-repeat center center; /*url('../images/bg.jpg') no-repeat center -20px;*/
+	padding: 0px;
+}
+
+#linkedin {
+	position: absolute;
+	bottom: 10%;
+	left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+	vertical-align: middle;
+}
+
+#linkedin img, #linkedin a {
+	vertical-align: middle;
+}
+
+#linkedin a {
+	font-weight: bold;
+	color: #f7f7f7;
+	text-decoration: none;
+}
+
+#linkedin a:hover {
+	text-decoration: underline;
+}

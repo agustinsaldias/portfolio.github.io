@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'TypeWCond';
+    font-weight: normal;
+    src: url('../fonts/typewcond_regular.otf');
+}
+@font-face {
+    font-family: 'TypeWCond';
+    font-weight: bold;
+    src: url('../fonts/typewcond_bold.otf');
+}
+@font-face {
+    font-family: 'Comfortaa';
+    font-weight: normal;
+    src: url('../fonts/Comfortaa Thin.ttf');
+}
+@font-face {
+    font-family: 'Comfortaa';
+    font-weight: bold;
+    src: url('../fonts/Comfortaa Bold.ttf');
+}
